@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-67-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-68-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **My journey of solving competitive programming problems on [Codeforces](https://codeforces.com/) using Python 🐍**
@@ -19,10 +19,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 🧩 Total Problems Solved | **67** |
+| 🧩 Total Problems Solved | **68** |
 | 💻 Language | Python 3 |
 | 📅 Journey Started | May 14, 2026 |
-| 🔥 Current Streak | 54 days |
+| 🔥 Current Streak | 55 days |
 | 🎯 Difficulty Range | 800 – 1000 |
 
 ---
@@ -92,12 +92,13 @@
 | 59 | [1692A - Marathon](https://codeforces.com/problemset/problem/1692/A) | 800 | Implementation | [Solution](Problem-1692A.py) |
 | 60 | [1703A - YES or YES](https://codeforces.com/problemset/problem/1703/A) | 800 | Strings, Implementation | [Solution](Problem-1703A.py) |
 | 61 | [1742A - Sum](https://codeforces.com/problemset/problem/1742/A) | 800 | Math, Implementation | [Solution](Problem-1742A.py) |
-| 62 | [1807A - Plus or Minus](https://codeforces.com/problemset/problem/1807/A) | 800 | Implementation | [Solution](Problem-1807A.py) |
-| 63 | [1857A - Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | Math | [Solution](Problem-1857A.py) |
-| 64 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
-| 65 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
-| 66 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
-| 67 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
+| 62 | [1791A - Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) | 800 | Strings, Implementation | [Solution](Problem-1791A.py) |
+| 63 | [1807A - Plus or Minus](https://codeforces.com/problemset/problem/1807/A) | 800 | Implementation | [Solution](Problem-1807A.py) |
+| 64 | [1857A - Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | Math | [Solution](Problem-1857A.py) |
+| 65 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
+| 66 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
+| 67 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
+| 68 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
 
 ---
 
@@ -135,9 +136,9 @@ codeforces-python-solutions/
 
 | Topic | Count |
 |-------|:-----:|
-| Implementation | 50 |
+| Implementation | 51 |
 | Math | 26 |
-| Strings | 16 |
+| Strings | 17 |
 | Brute Force | 7 |
 | Greedy | 6 |
 | Sortings | 4 |
