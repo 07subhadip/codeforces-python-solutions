@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-89-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **My journey of solving competitive programming problems on [Codeforces](https://codeforces.com/) using Python 🐍**
@@ -19,10 +19,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 🧩 Total Problems Solved | **89** |
+| 🧩 Total Problems Solved | **90** |
 | 💻 Language | Python 3 |
 | 📅 Journey Started | May 14, 2026 |
-| 🔥 Current Streak | 61 days |
+| 🔥 Current Streak | 62 days |
 | 🎯 Difficulty Range | 800 – 1000 |
 
 ---
@@ -64,62 +64,63 @@
 | 31 | [344A - Magnets](https://codeforces.com/problemset/problem/344/A) | 800 | Implementation | [Solution](Problem-344A.py) |
 | 32 | [381A - Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 800 | Greedy, Two Pointers | [Solution](Problem-381A.py) |
 | 33 | [427A - Police Recruits](https://codeforces.com/problemset/problem/427/A) | 800 | Implementation | [Solution](Problem-427A.py) |
-| 34 | [443A - Anton and Letters](https://codeforces.com/problemset/problem/443/A) | 800 | Strings, Implementation | [Solution](Problem-443A.py) |
-| 35 | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | Implementation | [Solution](Problem-467A.py) |
-| 36 | [469A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | 800 | Implementation | [Solution](Problem-469A.py) |
-| 37 | [472A - Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A) | 800 | Math | [Solution](Problem-472A.py) |
-| 38 | [486A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | Math, Implementation | [Solution](Problem-486A.py) |
-| 39 | [490A - Team Olympiad](https://codeforces.com/problemset/problem/490/A) | 800 | Greedy, Implementation, Sortings | [Solution](Problem-490A.py) |
-| 40 | [510A - Fox and Snake](https://codeforces.com/problemset/problem/510/A) | 800 | Implementation | [Solution](Problem-510A.py) |
-| 41 | [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | 800 | Strings, Implementation | [Solution](Problem-520A.py) |
-| 42 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | Math, Brute Force | [Solution](Problem-546A.py) |
-| 43 | [581A - Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | 800 | Math, Implementation | [Solution](Problem-581A.py) |
-| 44 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | Math, Greedy | [Solution](Problem-617A.py) |
-| 45 | [630A - Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | 800 | Math | [Solution](Problem-630A.py) |
-| 46 | [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | Implementation | [Solution](Problem-677A.py) |
-| 47 | [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | 800 | Implementation | [Solution](Problem-705A.py) |
-| 48 | [723A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) | 800 | Math, Sortings | [Solution](Problem-723A.py) |
-| 49 | [732A - K-Rounding](https://codeforces.com/problemset/problem/732/A) | 800 | Brute Force, Math | [Solution](Problem-732A.py) |
-| 50 | [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | Strings, Implementation | [Solution](Problem-734A.py) |
-| 51 | [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A) | 800 | Math, Implementation | [Solution](Problem-750A.py) |
-| 52 | [758A - Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | 800 | Math, Implementation | [Solution](Problem-758A.py) |
-| 53 | [785A - Tom Riddle's Diary](https://codeforces.com/problemset/problem/785/A) | 800 | Implementation | [Solution](Problem-785A.py) |
-| 54 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | Implementation | [Solution](Problem-791A.py) |
-| 55 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | Implementation | [Solution](Problem-977A.py) |
-| 56 | [996A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | 800 | Greedy, Math | [Solution](Problem-996A.py) |
-| 57 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | Implementation | [Solution](Problem-1030A.py) |
-| 58 | [1154A - Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | 800 | Math | [Solution](Problem-1154A.py) |
-| 59 | [1328A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | Math | [Solution](Problem-1328A.py) |
-| 60 | [1335A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | 800 | Math | [Solution](Problem-1335A.py) |
-| 61 | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | 800 | Math, Implementation | [Solution](Problem-1352A.py) |
-| 62 | [1399A - Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 800 | Greedy, Sortings | [Solution](Problem-1399A.py) |
-| 63 | [1409A - Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | 800 | Math, Greedy | [Solution](Problem-1409A.py) |
-| 64 | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 800 | Implementation | [Solution](Problem-1512A.py) |
-| 65 | [1560A - Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) | 800 | Math, Implementation | [Solution](Problem-1560A.py) |
-| 66 | [1669A - Division?](https://codeforces.com/problemset/problem/1669/A) | 800 | Implementation | [Solution](Problem-1669A.py) |
-| 67 | [1676A - Lucky?](https://codeforces.com/problemset/problem/1676/A) | 800 | Implementation | [Solution](Problem-1676A.py) |
-| 68 | [1692A - Marathon](https://codeforces.com/problemset/problem/1692/A) | 800 | Implementation | [Solution](Problem-1692A.py) |
-| 69 | [1703A - YES or YES](https://codeforces.com/problemset/problem/1703/A) | 800 | Strings, Implementation | [Solution](Problem-1703A.py) |
-| 70 | [1742A - Sum](https://codeforces.com/problemset/problem/1742/A) | 800 | Math, Implementation | [Solution](Problem-1742A.py) |
-| 71 | [1760A - Medium Number](https://codeforces.com/problemset/problem/1760/A) | 800 | Implementation, Sortings | [Solution](Problem-1760A.py) |
-| 72 | [1791A - Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) | 800 | Strings, Implementation | [Solution](Problem-1791A.py) |
-| 73 | [1791C - Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | 800 | Two Pointers, Strings | [Solution](Problem-1791C.py) |
-| 74 | [1807A - Plus or Minus](https://codeforces.com/problemset/problem/1807/A) | 800 | Implementation | [Solution](Problem-1807A.py) |
-| 75 | [1829A - Love Story](https://codeforces.com/problemset/problem/1829/A) | 800 | Strings, Implementation | [Solution](Problem-1829A.py) |
-| 76 | [1829B - Blank Space](https://codeforces.com/problemset/problem/1829/B) | 800 | Implementation | [Solution](Problem-1829B.py) |
-| 77 | [1850A - To My Critics](https://codeforces.com/problemset/problem/1850/A) | 800 | Math | [Solution](Problem-1850A.py) |
-| 78 | [1857A - Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | Math | [Solution](Problem-1857A.py) |
-| 79 | [1873A - Short Sort](https://codeforces.com/problemset/problem/1873/A) | 800 | Implementation | [Solution](Problem-1873A.py) |
-| 80 | [1873C - Target Practice](https://codeforces.com/problemset/problem/1873/C) | 800 | Implementation, Math | [Solution](Problem-1873C.py) |
-| 81 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
-| 82 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
-| 83 | [1901A - Line Trip](https://codeforces.com/problemset/problem/1901/A) | 800 | Math, Greedy | [Solution](Problem-1901A.py) |
-| 84 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
-| 85 | [1915A - Odd One Out](https://codeforces.com/problemset/problem/1915/A) | 800 | Implementation | [Solution](Problem-1915A.py) |
-| 86 | [1950A - Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A) | 800 | Implementation | [Solution](Problem-1950A.py) |
-| 87 | [1985A - Creating Words](https://codeforces.com/problemset/problem/1985/A) | 800 | Strings, Implementation | [Solution](Problem-1985A.py) |
-| 88 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
-| 89 | [2009A - Minimize!](https://codeforces.com/problemset/problem/2009/A) | 800 | Math | [Solution](Problem-2009A.py) |
+| 34 | [432A - Choosing Teams](https://codeforces.com/problemset/problem/432/A) | 800 | Greedy, Sortings | [Solution](Problem-432A.py) |
+| 35 | [443A - Anton and Letters](https://codeforces.com/problemset/problem/443/A) | 800 | Strings, Implementation | [Solution](Problem-443A.py) |
+| 36 | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | Implementation | [Solution](Problem-467A.py) |
+| 37 | [469A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | 800 | Implementation | [Solution](Problem-469A.py) |
+| 38 | [472A - Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A) | 800 | Math | [Solution](Problem-472A.py) |
+| 39 | [486A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | Math, Implementation | [Solution](Problem-486A.py) |
+| 40 | [490A - Team Olympiad](https://codeforces.com/problemset/problem/490/A) | 800 | Greedy, Implementation, Sortings | [Solution](Problem-490A.py) |
+| 41 | [510A - Fox and Snake](https://codeforces.com/problemset/problem/510/A) | 800 | Implementation | [Solution](Problem-510A.py) |
+| 42 | [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | 800 | Strings, Implementation | [Solution](Problem-520A.py) |
+| 43 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | Math, Brute Force | [Solution](Problem-546A.py) |
+| 44 | [581A - Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | 800 | Math, Implementation | [Solution](Problem-581A.py) |
+| 45 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | Math, Greedy | [Solution](Problem-617A.py) |
+| 46 | [630A - Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | 800 | Math | [Solution](Problem-630A.py) |
+| 47 | [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | Implementation | [Solution](Problem-677A.py) |
+| 48 | [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | 800 | Implementation | [Solution](Problem-705A.py) |
+| 49 | [723A - The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) | 800 | Math, Sortings | [Solution](Problem-723A.py) |
+| 50 | [732A - K-Rounding](https://codeforces.com/problemset/problem/732/A) | 800 | Brute Force, Math | [Solution](Problem-732A.py) |
+| 51 | [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | Strings, Implementation | [Solution](Problem-734A.py) |
+| 52 | [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A) | 800 | Math, Implementation | [Solution](Problem-750A.py) |
+| 53 | [758A - Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | 800 | Math, Implementation | [Solution](Problem-758A.py) |
+| 54 | [785A - Tom Riddle's Diary](https://codeforces.com/problemset/problem/785/A) | 800 | Implementation | [Solution](Problem-785A.py) |
+| 55 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | Implementation | [Solution](Problem-791A.py) |
+| 56 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | Implementation | [Solution](Problem-977A.py) |
+| 57 | [996A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | 800 | Greedy, Math | [Solution](Problem-996A.py) |
+| 58 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | Implementation | [Solution](Problem-1030A.py) |
+| 59 | [1154A - Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | 800 | Math | [Solution](Problem-1154A.py) |
+| 60 | [1328A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | Math | [Solution](Problem-1328A.py) |
+| 61 | [1335A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | 800 | Math | [Solution](Problem-1335A.py) |
+| 62 | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | 800 | Math, Implementation | [Solution](Problem-1352A.py) |
+| 63 | [1399A - Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 800 | Greedy, Sortings | [Solution](Problem-1399A.py) |
+| 64 | [1409A - Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | 800 | Math, Greedy | [Solution](Problem-1409A.py) |
+| 65 | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 800 | Implementation | [Solution](Problem-1512A.py) |
+| 66 | [1560A - Dislike of Threes](https://codeforces.com/problemset/problem/1560/A) | 800 | Math, Implementation | [Solution](Problem-1560A.py) |
+| 67 | [1669A - Division?](https://codeforces.com/problemset/problem/1669/A) | 800 | Implementation | [Solution](Problem-1669A.py) |
+| 68 | [1676A - Lucky?](https://codeforces.com/problemset/problem/1676/A) | 800 | Implementation | [Solution](Problem-1676A.py) |
+| 69 | [1692A - Marathon](https://codeforces.com/problemset/problem/1692/A) | 800 | Implementation | [Solution](Problem-1692A.py) |
+| 70 | [1703A - YES or YES](https://codeforces.com/problemset/problem/1703/A) | 800 | Strings, Implementation | [Solution](Problem-1703A.py) |
+| 71 | [1742A - Sum](https://codeforces.com/problemset/problem/1742/A) | 800 | Math, Implementation | [Solution](Problem-1742A.py) |
+| 72 | [1760A - Medium Number](https://codeforces.com/problemset/problem/1760/A) | 800 | Implementation, Sortings | [Solution](Problem-1760A.py) |
+| 73 | [1791A - Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) | 800 | Strings, Implementation | [Solution](Problem-1791A.py) |
+| 74 | [1791C - Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | 800 | Two Pointers, Strings | [Solution](Problem-1791C.py) |
+| 75 | [1807A - Plus or Minus](https://codeforces.com/problemset/problem/1807/A) | 800 | Implementation | [Solution](Problem-1807A.py) |
+| 76 | [1829A - Love Story](https://codeforces.com/problemset/problem/1829/A) | 800 | Strings, Implementation | [Solution](Problem-1829A.py) |
+| 77 | [1829B - Blank Space](https://codeforces.com/problemset/problem/1829/B) | 800 | Implementation | [Solution](Problem-1829B.py) |
+| 78 | [1850A - To My Critics](https://codeforces.com/problemset/problem/1850/A) | 800 | Math | [Solution](Problem-1850A.py) |
+| 79 | [1857A - Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | Math | [Solution](Problem-1857A.py) |
+| 80 | [1873A - Short Sort](https://codeforces.com/problemset/problem/1873/A) | 800 | Implementation | [Solution](Problem-1873A.py) |
+| 81 | [1873C - Target Practice](https://codeforces.com/problemset/problem/1873/C) | 800 | Implementation, Math | [Solution](Problem-1873C.py) |
+| 82 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
+| 83 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
+| 84 | [1901A - Line Trip](https://codeforces.com/problemset/problem/1901/A) | 800 | Math, Greedy | [Solution](Problem-1901A.py) |
+| 85 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
+| 86 | [1915A - Odd One Out](https://codeforces.com/problemset/problem/1915/A) | 800 | Implementation | [Solution](Problem-1915A.py) |
+| 87 | [1950A - Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A) | 800 | Implementation | [Solution](Problem-1950A.py) |
+| 88 | [1985A - Creating Words](https://codeforces.com/problemset/problem/1985/A) | 800 | Strings, Implementation | [Solution](Problem-1985A.py) |
+| 89 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
+| 90 | [2009A - Minimize!](https://codeforces.com/problemset/problem/2009/A) | 800 | Math | [Solution](Problem-2009A.py) |
 
 ---
 
@@ -160,9 +161,9 @@ codeforces-python-solutions/
 | Implementation | 62 |
 | Math | 32 |
 | Strings | 19 |
+| Greedy | 10 |
+| Sortings | 8 |
 | Brute Force | 7 |
-| Greedy | 9 |
-| Sortings | 7 |
 | Two Pointers | 1 |
 | Simulation | 1 |
 | Games | 1 |
