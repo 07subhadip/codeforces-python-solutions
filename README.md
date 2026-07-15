@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-91-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **My journey of solving competitive programming problems on [Codeforces](https://codeforces.com/) using Python 🐍**
@@ -19,10 +19,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 🧩 Total Problems Solved | **90** |
+| 🧩 Total Problems Solved | **91** |
 | 💻 Language | Python 3 |
 | 📅 Journey Started | May 14, 2026 |
-| 🔥 Current Streak | 62 days |
+| 🔥 Current Streak | 63 days |
 | 🎯 Difficulty Range | 800 – 1000 |
 
 ---
@@ -110,17 +110,18 @@
 | 77 | [1829B - Blank Space](https://codeforces.com/problemset/problem/1829/B) | 800 | Implementation | [Solution](Problem-1829B.py) |
 | 78 | [1850A - To My Critics](https://codeforces.com/problemset/problem/1850/A) | 800 | Math | [Solution](Problem-1850A.py) |
 | 79 | [1857A - Array Coloring](https://codeforces.com/problemset/problem/1857/A) | 800 | Math | [Solution](Problem-1857A.py) |
-| 80 | [1873A - Short Sort](https://codeforces.com/problemset/problem/1873/A) | 800 | Implementation | [Solution](Problem-1873A.py) |
-| 81 | [1873C - Target Practice](https://codeforces.com/problemset/problem/1873/C) | 800 | Implementation, Math | [Solution](Problem-1873C.py) |
-| 82 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
-| 83 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
-| 84 | [1901A - Line Trip](https://codeforces.com/problemset/problem/1901/A) | 800 | Math, Greedy | [Solution](Problem-1901A.py) |
-| 85 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
-| 86 | [1915A - Odd One Out](https://codeforces.com/problemset/problem/1915/A) | 800 | Implementation | [Solution](Problem-1915A.py) |
-| 87 | [1950A - Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A) | 800 | Implementation | [Solution](Problem-1950A.py) |
-| 88 | [1985A - Creating Words](https://codeforces.com/problemset/problem/1985/A) | 800 | Strings, Implementation | [Solution](Problem-1985A.py) |
-| 89 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
-| 90 | [2009A - Minimize!](https://codeforces.com/problemset/problem/2009/A) | 800 | Math | [Solution](Problem-2009A.py) |
+| 80 | [1858A - Buttons](https://codeforces.com/problemset/problem/1858/A) | 800 | Math, Games, Greedy | [Solution](Problem-1858A.py) |
+| 81 | [1873A - Short Sort](https://codeforces.com/problemset/problem/1873/A) | 800 | Implementation | [Solution](Problem-1873A.py) |
+| 82 | [1873C - Target Practice](https://codeforces.com/problemset/problem/1873/C) | 800 | Implementation, Math | [Solution](Problem-1873C.py) |
+| 83 | [1878A - How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A) | 800 | Implementation | [Solution](Problem-1878A.py) |
+| 84 | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | 800 | Math, Games | [Solution](Problem-1899A.py) |
+| 85 | [1901A - Line Trip](https://codeforces.com/problemset/problem/1901/A) | 800 | Math, Greedy | [Solution](Problem-1901A.py) |
+| 86 | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | 800 | Implementation, Sortings | [Solution](Problem-1903A.py) |
+| 87 | [1915A - Odd One Out](https://codeforces.com/problemset/problem/1915/A) | 800 | Implementation | [Solution](Problem-1915A.py) |
+| 88 | [1950A - Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A) | 800 | Implementation | [Solution](Problem-1950A.py) |
+| 89 | [1985A - Creating Words](https://codeforces.com/problemset/problem/1985/A) | 800 | Strings, Implementation | [Solution](Problem-1985A.py) |
+| 90 | [1999A - A+B Again?](https://codeforces.com/problemset/problem/1999/A) | 800 | Math, Implementation | [Solution](Problem-1999A.py) |
+| 91 | [2009A - Minimize!](https://codeforces.com/problemset/problem/2009/A) | 800 | Math | [Solution](Problem-2009A.py) |
 
 ---
 
@@ -159,14 +160,14 @@ codeforces-python-solutions/
 | Topic | Count |
 |-------|:-----:|
 | Implementation | 62 |
-| Math | 32 |
+| Math | 33 |
 | Strings | 19 |
-| Greedy | 10 |
+| Greedy | 11 |
 | Sortings | 8 |
 | Brute Force | 7 |
+| Games | 2 |
 | Two Pointers | 1 |
 | Simulation | 1 |
-| Games | 1 |
 | Probabilities | 1 |
 
 ---
